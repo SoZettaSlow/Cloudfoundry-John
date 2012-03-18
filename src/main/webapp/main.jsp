@@ -8,7 +8,7 @@
 </head>
 <link rel="stylesheet" href="styles/style.css">
 <body>
-Boo will be repeated 10 times.<br/>
+Boo will be repeated 10 times. Feature XYZ<br/>
 <% for (int i =0; i<10; i++) { %>
 Boo!<br/>
 <% }; %>
