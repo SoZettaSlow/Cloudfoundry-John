@@ -13,6 +13,9 @@ Boo will be repeated 10 times.<br/>
 Boo!<br/>
 <% }; %>
 Today's date is <%= new java.util.Date()%>
-<p id="footer">Kupo!</p>
+<br/>
+This is a implementation master.
+
+<p id="footer">Kupo! Master</p>
 </body>
 </html>
